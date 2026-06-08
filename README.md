@@ -53,4 +53,17 @@ python main.py
 5. Never share or delete secret.key - passwords cannot be recovered without it
 
 ## Screenshots
-(Add your screenshots here after taking them)
+### 1. Main Window
+![Main Window](screenshot1_main_window.png)
+
+### 2. Adding a Password
+![Adding Password](screenshot2_adding_password.png)
+
+### 3. Password Table
+![Password Table](screenshot3_password_table.png)
+
+### 4. Passwords Revealed
+![Passwords Revealed](screenshot4_reveal_password.png)
+
+### 5. Encrypted File
+![Encrypted File](screenshot5_encrypted_file.png)
